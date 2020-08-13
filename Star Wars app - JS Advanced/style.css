@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+#logo {
+    width: 60%;
+    height: 400px;
+}
+
+#loader, #cosmonaut, #rocket {
+    width: 100px;
+}
+
+.tablediv {
+    margin-top: 15px;
+}
